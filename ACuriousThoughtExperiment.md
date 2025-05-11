@@ -1,4 +1,15 @@
-A Curious Thought Experiment
+# A Curious Thought Experiment
+**Author: Axel Nissim S.**
+
+
+![A Curious Experiment](ThoughtExperiment.png)
+
+
+
+---
+
+
+
 
 ### A dialogue of foundations: The black cat, the white cat, and the nature of reality
 
