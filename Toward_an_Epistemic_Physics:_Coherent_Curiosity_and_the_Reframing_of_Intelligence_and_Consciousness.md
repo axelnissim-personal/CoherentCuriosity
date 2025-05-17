@@ -2,7 +2,7 @@
 
 **Author:** Axel Nissim S. (TheCoherenceCat)
 
-![Coherence Cats](skiing.png)
+![CoherenceCat](skiing.png)
 
 ## Abstract
 
