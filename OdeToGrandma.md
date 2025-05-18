@@ -1,5 +1,5 @@
 # An Ode to Grandma
-An AI generated short story
+An AI generated short story from my memory to the present moment
 
 <img src="OldPicture.jpg" alt="Baby Axel with Grandmother" width="200"/>
 
