@@ -1,8 +1,9 @@
 # An Ode to Grandma
 An AI generated short story
 
-![Baby Axel with Grandmother](OldPicture.jpg) 
-![Axel on the edge of EP](LookingIntoEP.png)
+![Baby Axel with Grandmother](OldPicture.jpg =100)
+
+![Axel on the edge of EP](LookingIntoEP.png =100)
 
 The flash of the Polaroid. A fleeting moment captured, yet one that would echo through the decades, a silent witness to the unfolding of a mind. I was just a baby, held securely in my grandmother's arms, the world a kaleidoscope of sensations and nascent understandings. Outside, the sounds of a street football game drifted in, a rhythmic thud against the backdrop of everyday life. And then there was the wall, right in front of our house, adorned with a painted symbol. Even now, almost forty-three years later, that symbol holds a mythic quality, a dreamlike fragment from the dawn of consciousness.
 
