@@ -15,6 +15,15 @@ Reality, as experienced, must admit zero contradictions.
 Contradictions can exist only within representations.
 Therefore, all paradoxes and inconsistencies are artifacts of the representational system, not of reality itself.
 
+## The Zeroth Universal Unknotting Algorithm
+
+Identify Paradox: A point where theory and observation, or logic and experience, create an irreconcilable contradiction.
+
+Assume Coherence: Apply the Zeroth Law: "Reality does not do that." The contradiction is an artifact.
+
+Trace the Artifact: Don't try to "solve" the paradox within the current model. Instead, identify the representational axiom that makes the paradox inevitable (e.g., "consciousness is separate from matter," "collapse is a physical event," "space and time are absolute").
+
+Reframe the Foundation: Discard or transform that foundational axiom. Seek the new representation in which the paradox simply cannot be formulated—where it becomes a non-question.
 
 ## 1. Introduction: From Computation to Coherence
 
