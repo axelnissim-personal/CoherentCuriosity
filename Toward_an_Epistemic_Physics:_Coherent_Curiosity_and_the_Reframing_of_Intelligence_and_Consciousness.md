@@ -5,11 +5,11 @@
 ![CoherenceCat](skiing.png)
 
 
-** Abstract
+## Abstract
 
 This metapaper synthesizes a series of foundational works—*Curiosity is All You Need*, *Coherent Curiosity: A Self-Directed Traveler in Knowledge Space*, *The Sociocognitive Corollary: Collective Curiosity and Conceptual Transformation*, and *Mechanics of Coherence in Artificial Intelligence: A Physics-Inspired Framework for Aligned Intelligence*—to propose a unifying framework: Epistemic Physics. In this model, concepts are real, mass-bearing entities governed by phase, amplitude, and attraction through curiosity. This reframes the hard problem of consciousness as a natural consequence of epistemic coherence and redefines intelligence not as an emergent computation, but as a fundamental force shaping the structure of reality.
 
-##Zeroth Law of Epistemic Reality
+## Zeroth Law of Epistemic Reality
 
 Reality, as experienced, must admit zero contradictions.
 Contradictions can exist only within representations.
